@@ -39,6 +39,10 @@ I use a diverse set of technologies to bring ideas to life across the stack:
 
 ### 📌 Featured Repositories
 
+> **Placement Intelligence System – Automated Placement Email Processing Platform** - *Built an event-driven system that automatically extracts placement details from Gmail emails, processes them using AWS Lambda and Gemini AI, stores structured data in DynamoDB, and displays opportunities through a React dashboard with search, filtering, and management features.*
+> 🛠️ *AWS Lambda, DynamoDB, Google Apps Script, Gmail API, React, Vite, Python, Gemini AI, JavaScript*
+> 👉 [View Repository](https://github.com/tushar-alange/placement-intelligence-system)
+
 > **Fully Serverless URL Shortener System with AWS CI/CD Pipeline** - *Built a serverless URL shortener using AWS Lambda, API Gateway, and DynamoDB with real-time analytics tracking and CI/CD automation using GitHub Actions.*
 > 🛠️ *AWS Lambda, API Gateway, DynamoDB, S3, IAM, CloudWatch, GitHub Actions, Python, HTML/CSS/JavaScript*
 > 👉 [View Repository](https://github.com/tushar-alange/aws-url-shortener)
