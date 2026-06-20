@@ -47,6 +47,11 @@ I use a diverse set of technologies to bring ideas to life across the stack:
 > 🛠️ *AWS Lambda, API Gateway, DynamoDB, S3, IAM, CloudWatch, GitHub Actions, Python, HTML/CSS/JavaScript*
 > 👉 [View Repository](https://github.com/tushar-alange/aws-url-shortener)
 
+> **AI-Powered Conversational Mock Interview Coach with Adaptive Difficulty Engine** - *Built a full-stack conversational AI interview platform using FastAPI and Groq's LLaMA 3.3 70B model, featuring real-time voice input, automatic difficulty adjustment based on answer quality, and AI-generated performance evaluation with downloadable PDF reports.*
+> 🛠️ * Gemini API, Python, REST APIs, Web Speech API, jsPDF, HTML/CSS/JavaScript, Render, GitHub Pages, Git/GitHub*
+> 👉 [View Repository](https://github.com/tushar-alange/mock-interview)
+
+ 
 ---
 
 <p align="center">
