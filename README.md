@@ -51,7 +51,10 @@ I use a diverse set of technologies to bring ideas to life across the stack:
 > 🛠️ * Gemini API, Python, REST APIs, Web Speech API, jsPDF, HTML/CSS/JavaScript, Render, GitHub Pages, Git/GitHub*
 > 👉 [View Repository](https://github.com/tushar-alange/mock-interview)
 
- 
+> **CloudGuard** - *An automated platform that scans cloud configurations to catch security vulnerabilities before code is deployed to production, preventing data leaks.*
+> 🛠️ *AWS SAM CLI, GitHub Actions, Checkov, Docker, Python.*
+> 👉 [View Repository](https://github.com/tushar-alange/CloudGuard)
+
 ---
 
 <p align="center">
